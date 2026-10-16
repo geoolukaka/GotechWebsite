@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>GoTech Solutions — Portfolio</title>
+<meta name="description" content="Portfolio of logo, brand identity and software projects by GoTech Solutions, Nairobi.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Sora:wght@600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/portfolio.css">
+</head>
+<body>
+<header><div class="wrap"><nav><a class="brand" href="#top">go<i>tech</i>:$<span>portfolio</span></a><span><a class="btn" href="index.html">← Main site</a> <a class="btn" href="contact.html">Contact</a> <button id="theme" aria-label="Toggle light and dark theme">theme</button></span></nav></div></header>
+<main id="top" class="wrap">
+<div class="hero">
+<div><h1>Brands and software, <em>shipped.</em></h1><p>Selected logo, brand identity and software projects by GoTech Solutions in Nairobi, Kenya.</p></div>
+<div class="term" role="region" aria-label="Interactive terminal">
+<div class="bar"><s></s><s></s><s></s><span>projects — try a command</span></div>
+<div id="out" aria-live="polite"></div><div class="chips" id="chips"></div>
+<form class="in" id="tf" autocomplete="off"><b>$</b><input id="ti" aria-label="Terminal command" placeholder="type help" spellcheck="false" autocapitalize="off"></form>
+</div></div>
+<div class="bt"><h2><b>projects/</b> <span id="cnt"></span></h2><div class="filters" id="flt" role="group" aria-label="Filter projects"></div></div>
+<div class="grid" id="pg"></div>
+</main>
+<footer><div class="wrap soc"><h2>$ ls social/</h2>
+<a href="https://www.facebook.com/share/1BdiJdJWG2/" target="_blank" rel="noopener">Facebook ↗</a>
+<a href="https://www.instagram.com/geoffolukaka" target="_blank" rel="noopener">Instagram ↗</a>
+<a href="https://x.com/GotechSolutionz" target="_blank" rel="noopener">X ↗</a>
+<a href="https://github.com/geoolukaka" target="_blank" rel="noopener">GitHub ↗</a>
+</div>
+<div class="wrap"><span>GoTech Solutions · <a href="index.html">gotechsolutions.site</a> · gotechsolutions2@gmail.com</span><span>exit 0<i class="cur"></i></span></div></footer>
+
+<dialog id="dg" aria-label="Project details"><div class="d">
+<img class="big" id="db" alt="" hidden><div class="th" id="dth"></div>
+<h3 id="dt"></h3><div class="tags" id="dc"></div><p id="dd"></p><blockquote id="dq" hidden></blockquote>
+<div class="nv"><div class="row"><button id="pv">← Prev</button> <button id="nx">Next →</button></div><span><a class="btn p" id="dl" target="_blank" rel="noopener" hidden>Visit website ↗</a> <button class="p" id="dx">Close</button></span></div>
+</div></dialog>
+
+<script src="assets/js/projects.js"></script>
+<script src="assets/js/portfolio.js"></script>
+</body>
+</html>

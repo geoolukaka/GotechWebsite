@@ -1,0 +1,99 @@
+[
+  {
+    "n": "SallyTrends",
+    "k": "sallytrends",
+    "c": "web",
+    "tg": [
+      "Logo",
+      "Website design",
+      "E-commerce"
+    ],
+    "d": "Logo and website design for SallyTrends, an online store built so customers can browse and shop from any device.",
+    "link": "https://sallytrends.co.ke/"
+  },
+  {
+    "n": "Fefri Cream Inn",
+    "k": "fefri",
+    "c": "brand",
+    "tg": [
+      "Logo",
+      "Menu design"
+    ],
+    "d": "Logo and menu design for Fefri Cream Inn in Mwihoko, made to be clear and easy to read at the counter."
+  },
+  {
+    "k": "spoti",
+    "n": "SPOTI",
+    "c": "brand",
+    "tg": [
+      "Logo",
+      "Brand identity",
+      "Company profile",
+      "Letterhead"
+    ],
+    "d": "Logo, brand identity, company profile and letterhead for a sports media platform built for African fans. The speed mark and red-and-blue palette signal real-time action and trust.",
+    "q": [
+      "From the letterhead to the logo and full brand identity, GoTech delivered beyond expectations...",
+      "SPOTI Brand"
+    ],
+    "link": "https://spoti.co.ke/"
+  },
+  {
+    "k": "hcg",
+    "n": "Home Crowd Group",
+    "c": "brand",
+    "tg": [
+      "Logo",
+      "Brand guidelines",
+      "Typography"
+    ],
+    "d": "The HCG mark, with interlinked H and C letterforms, plus guidelines covering colour, typography, logo usage and tone of voice for the group and its SPOTI platform."
+  },
+  {
+    "k": "vora",
+    "n": "Vora",
+    "c": "brand",
+    "tg": [
+      "Logo",
+      "Brand identity",
+      "Apparel mockups"
+    ],
+    "d": "A geometric mark for a fashion label with the line \"Defined by form.\" Stitched in sand on black and printed in burgundy on stone, across hoodie, label and tee."
+  },
+  {
+    "k": "kibubu",
+    "n": "Kibubu",
+    "c": "brand",
+    "tg": [
+      "Logo",
+      "Moodboard",
+      "Brand identity"
+    ],
+    "d": "Three concepts explored for a shared savings idea. The refined pot-and-coin mark stays clear at 16 pixels, with horizontal, stacked and favicon versions in navy and cream.",
+    "link": "https://kibubu-app-chi.vercel.app/"
+  },
+  {
+    "k": "gse",
+    "n": "Great Star Electricals",
+    "c": "software",
+    "tg": [
+      "POS system",
+      "Digital invoicing",
+      "Stock management",
+      "Logo",
+      "Letterhead"
+    ],
+    "d": "A logo with a plug tucked into the E and a letterhead, plus a custom POS system that generates digital invoices, manages stock and keeps accounting records."
+  },
+  {
+    "k": "barber",
+    "n": "Classique Barber",
+    "c": "brand",
+    "tg": [
+      "Logo",
+      "Signage",
+      "Marketing mockups"
+    ],
+    "d": "A scissors-and-comb logo carried across a shopfront sign, uniform, billboard and roll-up banner with the line \"Class is in your cut.\""
+  }
+]
